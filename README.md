@@ -27,9 +27,3 @@ Aplikasi ini memiliki beberapa fitur, termasuk:
 - Analisis korelasi antara kecepatan angin dan jumlah penyewaan sepeda.
 - Visualisasi pola penyewaan sepeda selama tahun 2011 dan 2012.
 - Perbandingan pola penyewaan sepeda antara musim panas dan musim dingin pada jam tertentu.
-
-## Kontribusi
-Kontribusi terhadap pengembangan aplikasi ini sangat dihargai. Jika Anda menemukan masalah atau ingin menambahkan fitur baru, silakan buat *issue* atau *pull request* di repositori GitHub ini.
-
-## Lisensi
-Aplikasi ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
