@@ -17,9 +17,7 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 2. Instal semua pustaka yang diperlukan dengan menjalankan `pip install -r requirements.txt`.
 
 ## Menjalankan Aplikasi
-Untuk menjalankan aplikasi, buka terminal atau command prompt, arahkan ke direktori tempat Anda menyimpan file aplikasi, dan jalankan perintah berikut:
-
-streamlit run bike_sharing_dashboard.py
+Untuk menjalankan aplikasi, buka terminal atau command prompt, arahkan ke direktori tempat Anda menyimpan file aplikasi, dan jalankan perintah berikut melalui terminal command : streamlit run bike_sharing_dashboard.py atau klik https://zanzbikesharing.streamlit.app/
 
 ## Fitur Aplikasi
 Aplikasi ini memiliki beberapa fitur, termasuk:
