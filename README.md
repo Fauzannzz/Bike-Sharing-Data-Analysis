@@ -1,7 +1,7 @@
 # Bike Sharing Dashboard
 
 ## Overview
-Bike Sharing Dashboard adalah aplikasi web yang memvisualisasikan data penyewaan sepede. Aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai pola dan tren dalam penggunaan sepeda berbagi berdasarkan faktor-faktor seperti cuaca, kecepatan angin, musim, dan jam tertentu.
+Bike Sharing Dashboard adalah aplikasi web yang memvisualisasikan data penyewaan sepeda. Aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai pola dan tren dalam penggunaan sepeda berbagi berdasarkan faktor-faktor seperti cuaca, kecepatan angin, musim, dan jam tertentu.
 
 ## Requirements
 Untuk menjalankan aplikasi ini, Anda memerlukan:
